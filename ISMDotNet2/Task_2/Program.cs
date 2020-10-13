@@ -10,6 +10,7 @@ namespace Task_2
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;
             double z1, z2;
@@ -30,6 +31,8 @@ namespace Task_2
             Console.WriteLine($"z1 = {z1}");
             z2 = (Math.Sqrt(m) - Math.Sqrt(n)) / m;
             Console.WriteLine($"z2 = {z2}"); 
+=======
+>>>>>>> 640b7a8df4af9fc01728a9b05477b4f80166378d
         }
     }
 }
