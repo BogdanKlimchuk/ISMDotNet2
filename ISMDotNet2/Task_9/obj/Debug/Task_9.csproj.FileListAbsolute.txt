@@ -1,0 +1,7 @@
+D:\ISMProject\ISMDotNet2\Task_9\bin\Debug\Task_9.exe.config
+D:\ISMProject\ISMDotNet2\Task_9\bin\Debug\Task_9.exe
+D:\ISMProject\ISMDotNet2\Task_9\bin\Debug\Task_9.pdb
+D:\ISMProject\ISMDotNet2\Task_9\obj\Debug\Task_9.csprojAssemblyReference.cache
+D:\ISMProject\ISMDotNet2\Task_9\obj\Debug\Task_9.csproj.CoreCompileInputs.cache
+D:\ISMProject\ISMDotNet2\Task_9\obj\Debug\Task_9.exe
+D:\ISMProject\ISMDotNet2\Task_9\obj\Debug\Task_9.pdb
