@@ -10,29 +10,21 @@ namespace Task_1
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;
             int a, b, P, S;
             Console.WriteLine("A = ");
-            while (!int.TryParse(Console.ReadLine(), out a) || a < 1)
+            while (!int.TryParse(Console.ReadLine(), out a) || a < 0)
             {
                 Console.WriteLine("A - має бути цiле i бiльше за нуль");
                 Console.WriteLine("A = ");
             }
             Console.WriteLine("B = ");
-            while (!int.TryParse(Console.ReadLine(), out b) || b < 1)
+            while (!int.TryParse(Console.ReadLine(), out b) || b < 0)
             {
                 Console.WriteLine("B - має бути цiле i бiльше за нуль");
                 Console.WriteLine("B = ");
             }
-=======
-            int a, b, P, S;
-            Console.WriteLine("A = ");
-            a = int.Parse(Console.ReadLine());
-            Console.WriteLine("B = ");
-            b = int.Parse(Console.ReadLine());
->>>>>>> 640b7a8df4af9fc01728a9b05477b4f80166378d
             P = 2 * a + 2 * b;
             S = a * b;
             Console.WriteLine($"P = {P}");
